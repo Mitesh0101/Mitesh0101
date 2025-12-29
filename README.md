@@ -1,8 +1,8 @@
-# Hi there, I'm [Mitesh Patel]! 👋
+# Hi there, I'm Mitesh Patel! 👋
 
 ### 👨‍💻 Computer Science Student | Software Developer
 
-I am a passionate developer currently pursuing my B.Tech in Computer Science. I focus on building scalable software solutions and enjoy solving complex algorithmic problems. My interests lie in [Full Stack Development] and [Machine Learning].
+I am a passionate developer currently pursuing my B.Tech in Computer Science. I focus on building scalable software solutions and enjoy solving complex algorithmic problems. My interests lie in Full Stack Development and Machine Learning.
 
 ---
 
@@ -15,14 +15,14 @@ I am a passionate developer currently pursuing my B.Tech in Computer Science. I 
 **Frameworks & Libraries:**
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 **Tools & Databases:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 Current Projects & Learning
 
-- 🔭 **Working on:** A [BioGrow] using [HTML, CSS, JavaScript, Python and Flask] to solve [Multiple Farm Management for Farmers].
-- 🌱 **Learning:** Deepening my understanding of [Computer Vision].
+- 🔭 **Working on:** A BioGrow using HTML, CSS, JavaScript, Python and Flask to solve Multiple Farm Management for Farmers.
+- 🌱 **Learning:** Deepening my understanding of Computer Vision.
 
 ---
 
