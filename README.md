@@ -29,8 +29,8 @@ I am a passionate developer currently pursuing my B.Tech in Computer Science. I 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Mitesh0101]&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Mitesh0101]&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mitesh0101&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh0101&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
 
 ---
