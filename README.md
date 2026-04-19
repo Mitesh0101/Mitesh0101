@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00E5FF&center=true&width=600&lines=Hi+there%2C+I'm+Mitesh+%F0%9F%91%8B;Currently+learning+Node.js+%26+Express+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=00E5FF&center=true&width=600&lines=Hi+there%2C+I'm+Mitesh+%F0%9F%91%8B;Currently+learning+React.js+%26+ML+%F0%9F%9A%80;Building+cool+things+with+code+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mitesh0101&color=blue&style=flat-square&label=Profile+Views)
 
 **A developer currently focused on continuous learning and expanding my technical skill set.**
 
-I enjoy building practical software solutions. Right now, my main focus is on mastering backend development and exploring new frameworks.
+I enjoy building practical software solutions. Right now, my main focus is on mastering full-stack development and exploring machine learning.
 
 ## 🔭 What I'm Doing
-- 📖 **Currently Learning:** Node.js and Express.js
-- 🎯 **Current Focus:** Learning and building efficient applications.
+- 📖 **Currently Learning:** React.js and Machine Learning
+- 🎯 **Current Focus:** Full-stack development and building efficient, data-driven applications.
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +23,8 @@ I enjoy building practical software solutions. Right now, my main focus is on ma
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Data Science & Visualization
@@ -33,6 +35,7 @@ I enjoy building practical software solutions. Right now, my main focus is on ma
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -59,4 +62,3 @@ A command-line interface (CLI) application built in Java. It utilizes object-ori
 
 - **Email:** [miteshpatel0042@gmail.com](mailto:miteshpatel0042@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/miteshpatel0042/)
-
